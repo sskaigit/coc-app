@@ -1,0 +1,8 @@
+{
+    "chat_open": [30,503],
+    "chat_close": [800,503],
+    "train_icon": [80,800],
+    "train_troops": [700,60],
+    "train_magic": [1040,60],
+    "train_machine": [1390,60]
+}
